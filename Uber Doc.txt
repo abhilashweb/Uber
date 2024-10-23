@@ -1,0 +1,69 @@
+
+ 1]  Elements/eyJwYXRoIjoicG9zdG1hdGVzXC9hY2NvdW50c1wvODRcLzQwMDA1MTRcL3Byb2plY3RzXC8zMFwvYXNzZXRzXC85YlwvNTY1MVwvNDIyYjg2M2Q0MzM4N2ViY2ZmNTY3YzA3Mjg2YTUzODctMTYyMDcyMDE1OS5wbmc.png" alt="
+
+<p data-baseweb="typo-paragraphxsmall" class="css-iovQQQ">Your perfect rental car is a few clicks away. Learn more about Uber Rent.</p>
+
+
+<div class="body-fourth-section">
+
+            <div class="body-fourth-section-holder">
+
+                <div>
+                    <img class="fleet-management-image" src="Elements/fleet-management.jpg" alt="">
+                </div>
+
+                <div>
+
+                    <div>
+                        <h2 class="fifth-heading">Make money by renting out <br> your car</h2>
+                    </div>
+
+                    <div>
+                        <p class="fifth-heading-para">Connect with thousands of drivers and earn more per week <br> with Uber’s free fleet management tools</p>
+                    </div>
+
+                    <div>
+                        <button class="get-started-button3">Get started</button>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+
+color: black;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: normal;
+    line-height: 44px;
+    width: 459px;
+    height: 44px;
+    margin-left: 134px;
+    margin-top: 272px;
+    
+  color: black;
+    font-size: 16.5px;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: left;
+    text-size-adjust: 100%;
+    unicode-bidi: isolate;
+    height: 72px;
+    margin-left: 133px;
+
+ <div>
+    <div class="last-para-holder">
+        <p class="last-para">**To learn more about Uber’s climate goals, read our <span class="under-line">2024 ESG Report.</span></p>
+
+    </div>
+</div>
+
+ <a data-baseweb="button" href="https://www.linkedin.com/company/1815218?uclick_id=c5e49039-bafc-475d-890b-a1c1a4b8f840" aria-label="Visit Uber's LinkedIn" target="_blank" data-testid="button-social" text="LinkedIn" data-tracking-name="_eec9ad33-2623-400f-8403-f7e01c3c18d4_linkedin_cta27" class="css-cjKEzX" data-uclick-id="c5e49039-bafc-475d-890b-a1c1a4b8f840"><svg width="1em" height="1em" viewBox="0 0 24 24" fill="none"><title>linkedin</title><path d="M21.37 1H2.62C1.73 1 1 1.71 1 2.58v18.83c0 .88.73 1.59 1.62 1.59h18.75c.9 0 1.63-.71 1.63-1.59V2.58C23 1.71 22.27 1 21.37 1ZM7.53 19.75H4.26V9.25h3.27v10.5ZM5.89 7.81C4.85 7.81 4 6.96 4 5.92s.84-1.89 1.89-1.89c1.04 0 1.89.85 1.89 1.89.01 1.04-.84 1.89-1.89 1.89Zm13.86 11.94h-3.26v-5.1c0-1.22-.02-2.78-1.7-2.78-1.7 0-1.96 1.33-1.96 2.7v5.19H9.57V9.26h3.13v1.43h.04c.44-.83 1.5-1.7 3.09-1.7 3.3 0 3.91 2.17 3.91 5v5.76h.01Z" fill="currentColor"></path></svg></a>
+
+
+
